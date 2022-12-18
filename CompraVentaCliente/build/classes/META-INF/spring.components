@@ -1,0 +1,7 @@
+org.me.compraventa.CompraVenta=javax.jws.WebService,javax.xml.bind.annotation.XmlSeeAlso
+org.me.compraventa.CompraVenta_Service=javax.xml.ws.WebServiceClient
+org.me.compraventa.Comprar=javax.xml.bind.annotation.XmlAccessorType,javax.xml.bind.annotation.XmlType
+org.me.compraventa.ComprarResponse=javax.xml.bind.annotation.XmlAccessorType,javax.xml.bind.annotation.XmlType
+org.me.compraventa.ObjectFactory=javax.xml.bind.annotation.XmlRegistry
+org.me.compraventa.Pagar=javax.xml.bind.annotation.XmlAccessorType,javax.xml.bind.annotation.XmlType
+org.me.compraventa.PagarResponse=javax.xml.bind.annotation.XmlAccessorType,javax.xml.bind.annotation.XmlType
